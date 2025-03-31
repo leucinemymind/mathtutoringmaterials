@@ -44,10 +44,10 @@
   <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>main.bcf</file>
+      <file>20241124.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>main.bbl</file>
+      <file>20241124.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -64,19 +64,19 @@
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>main</infile>
+      <infile>20241124</infile>
     </cmdline>
     <input>
-      <file>main.bcf</file>
+      <file>20241124.bcf</file>
     </input>
     <output>
-      <file>main.bbl</file>
+      <file>20241124.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>main.bbl</file>
+      <file>20241124.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>main.bcf</file>
+      <file>20241124.bcf</file>
     </requires>
   </external>
 </requests>

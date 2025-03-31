@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  30 MAR 2025 18:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  31 MAR 2025 09:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**main.tex
-(./main.tex
+**20241124.tex
+(./20241124.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
@@ -587,8 +587,8 @@ LaTeX Info: Redefining \microtypesetup on input line 3065.
 \@quotelevel=\count429
 \@quotereset=\count430
 
-No file main.aux.
-\openout1 = `main.aux'.
+No file 20241124.aux.
+\openout1 = `20241124.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
@@ -672,17 +672,17 @@ File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `main.bcf'.
+\openout3 = `20241124.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' not found.
+Package biblatex Info: ... file '20241124.bbl' not found.
 
-No file main.bbl.
+No file 20241124.bbl.
 Package biblatex Info: Reference section=0 on input line 18.
 Package biblatex Info: Reference segment=0 on input line 18.
 Package hyperref Info: Link coloring OFF on input line 18.
 \@outlinefile=\write4
-\openout4 = `main.out'.
+\openout4 = `20241124.out'.
 
 LaTeX Info: Redefining \microtypecontext on input line 18.
 Package microtype Info: Applying patch `item' on input line 18.
@@ -741,7 +741,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--48
 
 
 
-[2] (./main.aux)
+[2] (./20241124.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -754,36 +754,36 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
-Package rerunfilecheck Warning: File `main.out' has changed.
+Package rerunfilecheck Warning: File `20241124.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: Checksums for `main.out':
+Package rerunfilecheck Info: Checksums for `20241124.out':
 (rerunfilecheck)             Before: <no file>
 (rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
 
 Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
+(biblatex)                20241124
 (biblatex)                and rerun LaTeX afterwards.
 
-Package logreq Info: Writing requests to 'main.run.xml'.
-\openout1 = `main.run.xml'.
+Package logreq Info: Writing requests to '20241124.run.xml'.
+\openout1 = `20241124.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
  19519 strings out of 473190
- 337819 string characters out of 5715801
- 1214831 words of memory out of 5000000
+ 337875 string characters out of 5715801
+ 1214847 words of memory out of 5000000
  42551 multiletter control sequences out of 15000+600000
  565686 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,6n,81p,1001b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 66i,6n,81p,1005b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></
 usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></us
 r/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (2 pages, 314552 bytes).
+Output written on 20241124.pdf (2 pages, 314552 bytes).
 PDF statistics:
  48 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
