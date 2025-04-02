@@ -41,13 +41,13 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="0">
+  <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>20240119.bcf</file>
+      <file>studyguiderachel.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>20240119.bbl</file>
+      <file>studyguiderachel.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -60,23 +60,23 @@
       <file>english.lbx</file>
     </requires>
   </internal>
-  <external package="biblatex" priority="5" active="0">
+  <external package="biblatex" priority="5" active="1">
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>20240119</infile>
+      <infile>studyguiderachel</infile>
     </cmdline>
     <input>
-      <file>20240119.bcf</file>
+      <file>studyguiderachel.bcf</file>
     </input>
     <output>
-      <file>20240119.bbl</file>
+      <file>studyguiderachel.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>20240119.bbl</file>
+      <file>studyguiderachel.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>20240119.bcf</file>
+      <file>studyguiderachel.bcf</file>
     </requires>
   </external>
 </requests>
