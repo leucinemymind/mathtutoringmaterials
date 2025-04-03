@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  30 MAR 2025 18:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  2 APR 2025 19:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -590,7 +590,7 @@ Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 \@quotelevel=\count429
 \@quotereset=\count430
 
-No file 020925.aux.
+(./020925.aux)
 \openout1 = `020925.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -611,6 +611,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
+
 (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count431
@@ -684,6 +685,7 @@ No file 020925.bbl.
 Package biblatex Info: Reference section=0 on input line 20.
 Package biblatex Info: Reference segment=0 on input line 20.
 Package hyperref Info: Link coloring OFF on input line 20.
+(./020925.out) (./020925.out)
 \@outlinefile=\write4
 \openout4 = `020925.out'.
 
@@ -704,6 +706,7 @@ LaTeX Info: Redefining \showhyphens on input line 20.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
+
 (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
@@ -724,36 +727,18 @@ Package pdftex.def Info: meme.jpg  used on input line 50.
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `020925.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `020925.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                020925
-(biblatex)                and rerun LaTeX afterwards.
-
+Package rerunfilecheck Info: File `020925.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to '020925.run.xml'.
 \openout1 = `020925.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19563 strings out of 473190
- 338835 string characters out of 5715801
- 1216933 words of memory out of 5000000
- 42585 multiletter control sequences out of 15000+600000
- 565843 words of font info for 81 fonts, out of 8000000 for 9000
+ 19567 strings out of 473190
+ 338913 string characters out of 5715801
+ 1216994 words of memory out of 5000000
+ 42587 multiletter control sequences out of 15000+600000
+ 565735 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,6n,81p,1003b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
@@ -762,7 +747,7 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></us
 r/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/l
 ocal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on 020925.pdf (2 pages, 89678 bytes).
+Output written on 020925.pdf (2 pages, 89676 bytes).
 PDF statistics:
  54 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
