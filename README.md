@@ -1,6 +1,7 @@
 Notes for math tutoring sessions
 
 Topics covered:
+- Fraction/decimal conversions (2025-05-11)
 - Visual representations of data and different kinds of plots (2025-04-20)
 - Area and perimeter of squares, rectangles, and triangles (2025-04-13)
 - Ratios (2025-04-06)
